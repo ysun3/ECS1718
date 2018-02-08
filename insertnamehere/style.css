@@ -1,0 +1,27 @@
+body {
+    background-color:#b1ceb5;
+    color:#777;
+    font-family:Monospace;
+    font-size:16px;
+}
+h1 { 
+    font-family: Monospace
+
+}
+a:link, a:visited {
+    background-color: #A3A07C;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: grey;
+}
+
+p {
+    text-indent:25px;
+}
